@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CSE student focused on AI and ML,  interested in understanding <br>how algorithms work and how intelligent systems emerge from simple<br>ideas. Builds projects across machine learning and web development to <br>turn concepts into practical, working software.<br>
+I am a CSE student focused on AI and ML,  interested in understanding how algorithms work and how intelligent systems emerge from simple ideas. I build projects across machine learning and web development to turn concepts into practical, working software.
 
 
 ## 🌐 Socials:
